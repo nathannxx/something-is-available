@@ -1,5 +1,3 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fadtitas%2Fngrok-rdp%2F&labelColor=%2314213d&countColor=%23e5e5e5&style=flat-square)
-
 ## Description
 **What is RDP?**<br>
 * RDP (Remote Desktop Protocol) is a network communications protocol developed by Microsoft, which allows users to connect to another computer from a remote location.
@@ -29,6 +27,15 @@
 2. Put IP without **tcp://** and enter Username & click **Connect**.
 3. Later on, put the password for credential/auth.
 <img src="https://i.imgur.com/WQr9N1A.png" alt="ss" width="40%"/>
+
+Username: 
+```bash
+runneradmin
+```
+Password:
+```bash
+@l4iniw4k
+```
 
 ## Screenshots
 <img src="https://i.imgur.com/vgD2owk.png" alt="ss" width="90%"/>
